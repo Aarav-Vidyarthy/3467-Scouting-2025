@@ -449,12 +449,14 @@
           "choices": {
             "No Problems": "No Problems",
             "Brown Out": "Browned Out",
+            "E/A Stop": "E-Stop or A-Stop",
             "Tipped": "Tipped",
-            "Died": "Died",
+            "Died": "Died/Disabled",
             "Died and came back": "Died and Came Back",
             "Coral Stuck 10": "Coral Stuck (less than 10 seconds)",
             "Coral Stuck +": "Coral Stuck (more than 10 seconds)",
-            "Drove Over Algae": "Drove on algae and got stuck"
+            "Drove Over Algae": "Drove on algae and got stuck",
+            "Other": "Other issue"
           }
         },
         {
@@ -475,6 +477,8 @@
           "formResetBehavior": "reset",
           "choices": {
             "None": "None",
+            "ABFR": "Scored algae in net/barge from the reef",
+            "ABFG": "Scored algae in net/barge from the ground",
             "Good Defense": "Good Defense",
             "Good Driving": "Good Driving",
             "Ineffective Defense": "Ineffective Defense",
